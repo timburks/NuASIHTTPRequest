@@ -1,0 +1,7 @@
+
+Nukefile and test script for building asi-http-request into a framework
+suitable for use in Objective-C and Nu server applications.
+
+Note that the Nukefile clones the asi-http-request repository from github.
+
+Tim Burks
